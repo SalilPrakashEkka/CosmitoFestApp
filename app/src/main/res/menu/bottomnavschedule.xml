@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/day1"
+        android:icon="@drawable/home"
+        android:title="Day1" />
+
+    <item
+        android:id="@+id/day2"
+        android:icon="@drawable/event"
+        android:title="Day2" />
+
+    <item
+        android:id="@+id/day3"
+        android:icon="@drawable/schedule"
+        android:title="Day3" />
+</menu>

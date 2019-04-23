@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cosmito 2K19</string>
+    <string name="info">The Indira Gandhi Institute of Technology (IGIT) (Odia: ଇନ୍ଦିରା ଗାନ୍ଧୀ ବୈଷୟିକ ମହାବିଦ୍ୟାଳୟ) \n an autonomous institute is located at Sarang in Dhenkanal district in the Indian state of Odisha.\n It was established in 1982 by the government of Odisha.\n It is considered one among the premier institutions in the state.\n In addition to four year undergraduate degree courses, it offers three year Diploma courses in technical disciplines and a 3-year postgraduate degree in computer applications.\n It also offers five year BArch courses.\nIt offers postgraduate degree courses in engineering.\n The college has 179 acres (0.72 km2) of land and it is situated near the Brahmani River.\n Currently, Dr. Satyabrata Mahanta is the director of the institute.\n
+
+    Five branches in undergraduate courses of the institute are accredited by the NBA in the year 2016.\n It is affiliated to Biju Patnaik University of Technology and the State Council for Technical Education and Vocational Training.\n[1] On 2014 the Government of Odisha has decided to confer unitary university status to IGIT. \n \n \n
+    </string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Home</item>
+        <item>Events</item>
+        <item>Schedule</item>
+        <item>Map</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
